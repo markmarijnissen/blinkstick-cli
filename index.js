@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var blinkstick = require("blinkstick");
 var argv = require("yargs").argv;
 var args = argv._.map(function(arg) {

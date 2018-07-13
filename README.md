@@ -25,7 +25,7 @@ blinkstick [method] <color> [options]
 ```bash
 blinkstick "#FF0088"
 blinkstick 255 100 0
-blinkstick red
+blinkstick red --index 3
 blinkstick morph green
 blinkstick blink red --duration 500 --repeats 5
 blinkstick pulse red {duration:500}
