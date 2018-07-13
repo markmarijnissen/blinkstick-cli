@@ -2,7 +2,7 @@
 
 invoke a blinkstick method from the commandline
 
-## INSTALATION:
+## INSTALLATION:
 
 See https://github.com/arvydas/blinkstick-node#readme
 
