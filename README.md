@@ -16,9 +16,9 @@ npm install -g blinkstick-cli
 blinkstick [method] <color> [options]
 ```
 
-method: 	defaults to 'setColor'
-color:  	name, hexadecimal or RGB values (0-255)
-options:	JSON string or named commandline arguments
+- `method`: 	defaults to 'setColor'
+- `color`:  	name, hexadecimal or RGB values (0-255)
+- `options`:	JSON string or named commandline arguments
 
 ## EXAMPLES:
 
