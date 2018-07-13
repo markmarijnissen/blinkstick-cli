@@ -53,9 +53,10 @@ if (args.length === 0) {
   args.push(function(err, value) {
     if (err) {
       console.error(err);
-    } else {
+    } else if(typeof value !== "undefined"){
       console.log(value);
     }
+    device.close();
   });
   device[method].apply(device, args);
 }

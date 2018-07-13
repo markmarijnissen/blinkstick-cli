@@ -1,6 +1,6 @@
 {
   "name": "blinkstick-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli utility for blinkstick-node library",
   "main": "index.js",
   "bin": {
